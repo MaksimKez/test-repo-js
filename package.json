@@ -1,0 +1,16 @@
+{
+  "name": "jest-test-project",
+  "version": "1.0.0",
+  "description": "Test project with Jest - 5 passing and 5 failing tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["jest", "testing"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
